@@ -1,0 +1,4 @@
+
+framework:
+  baseUrl: "https://example.com"
+  browser: "chromium"
