@@ -2,3 +2,4 @@
 framework:
   baseUrl: "https://example.com"
   browser: "chromium"
+  repoPath: "C:/path/to/repo"

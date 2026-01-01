@@ -29,7 +29,7 @@ Feature: Debit Card Module
 
   Scenario: Perform online transaction
     When user performs online transaction
-    Then debit module operation should succeed
+    Then debit module operation should succeed and
 
   Scenario: Upgrade debit card variant
     When user upgrades debit card
