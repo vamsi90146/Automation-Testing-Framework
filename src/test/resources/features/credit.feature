@@ -29,7 +29,7 @@ Feature: Credit Card Module
 
   Scenario: Check credit card reward points
     When user checks credit rewards
-    Then credit module operation should succeed add
+    Then credit module operation should succeed
 
   Scenario: Close a credit card
     When user closes credit card
